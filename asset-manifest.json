@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simulador-manipulador/static/css/main.e1615479.css",
+    "main.js": "/simulador-manipulador/static/js/main.2112682d.js",
+    "static/js/453.23bf87bc.chunk.js": "/simulador-manipulador/static/js/453.23bf87bc.chunk.js",
+    "index.html": "/simulador-manipulador/index.html",
+    "main.e1615479.css.map": "/simulador-manipulador/static/css/main.e1615479.css.map",
+    "main.2112682d.js.map": "/simulador-manipulador/static/js/main.2112682d.js.map",
+    "453.23bf87bc.chunk.js.map": "/simulador-manipulador/static/js/453.23bf87bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1615479.css",
+    "static/js/main.2112682d.js"
+  ]
+}
